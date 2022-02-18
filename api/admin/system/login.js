@@ -7,9 +7,9 @@ module.exports = (req, res) => {
             isFirstLogin: false,
             realName: 'pawel',
             loginName: 'pawel',
-            orgCode: "320188999",
-            orgName: "管理机构",
-            orgLevel: "1"
+            orgCode: '320188999',
+            orgName: '管理机构',
+            orgLevel: '1'
         },
         message: 'ok'
     })
